@@ -1,15 +1,11 @@
-from television import Television  # import statement needed to gain access to Television class
-from remote import * # import statement to import all of gui_television
+from television import *  # import statement needed to gain access to the television file
 
 
 def main():
-    window = Tk()
-    window.title('TV Remote')
-    window.geometry('300x700')
-    window.resizable(False, False)
-
-    Gui(window)
-    window.mainloop()
+    application = QApplication([])
+    window = Television()
+    window.show()
+    application.exec()
 
 
 if __name__ == '__main__':
