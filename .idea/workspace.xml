@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58dc7829-0c6b-45a1-9af3-fd5675045e1a" name="Changes" comment="Finished">
+    <list default="true" id="58dc7829-0c6b-45a1-9af3-fd5675045e1a" name="Changes" comment="Fixed an error on comments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
     "Python.television.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/amsch/Desktop/Final_Project/pythonProject1",
+    "last_opened_file_path": "C:/Users/amsch/Desktop/tic-tac-toe/pythonProject",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -95,13 +95,22 @@
       <option name="project" value="LOCAL" />
       <updated>1734136521576</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fixed an error on comments">
+      <option name="closed" value="true" />
+      <created>1734158045074</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734158045074</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Starting" />
     <MESSAGE value="GUI Opens and turns on turns on and off" />
     <MESSAGE value="Finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished" />
+    <MESSAGE value="Fixed an error on comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed an error on comments" />
   </component>
 </project>
