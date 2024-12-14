@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58dc7829-0c6b-45a1-9af3-fd5675045e1a" name="Changes" comment="GUI Opens and turns on turns on and off">
+    <list default="true" id="58dc7829-0c6b-45a1-9af3-fd5675045e1a" name="Changes" comment="Finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remote.py" beforeDir="false" afterPath="$PROJECT_DIR$/remote.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/television.py" beforeDir="false" afterPath="$PROJECT_DIR$/television.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +48,10 @@
     "Python.main-1.executor": "Run",
     "Python.main.executor": "Run",
     "Python.remote.executor": "Run",
+    "Python.television.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/amsch/Desktop/Final_Project/pythonProject1",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -87,12 +87,21 @@
       <option name="project" value="LOCAL" />
       <updated>1734135316218</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finished">
+      <option name="closed" value="true" />
+      <created>1734136521576</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734136521576</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Starting" />
     <MESSAGE value="GUI Opens and turns on turns on and off" />
-    <option name="LAST_COMMIT_MESSAGE" value="GUI Opens and turns on turns on and off" />
+    <MESSAGE value="Finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished" />
   </component>
 </project>

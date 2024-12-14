@@ -85,7 +85,7 @@ class Television(QMainWindow, Ui_MainWindow):
 
     def set_channel(self, desiredchannel) -> None:
         """
-        Method to return to the previous channel entered.
+        Method to set the channel directly.
         """
         if self.__status:
             self.__channel = desiredchannel
