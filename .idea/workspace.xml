@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58dc7829-0c6b-45a1-9af3-fd5675045e1a" name="Changes" comment="Starting">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="58dc7829-0c6b-45a1-9af3-fd5675045e1a" name="Changes" comment="GUI Opens and turns on turns on and off">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/remote.py" beforeDir="false" afterPath="$PROJECT_DIR$/remote.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/television.py" beforeDir="false" afterPath="$PROJECT_DIR$/television.py" afterDir="false" />
     </list>
@@ -81,11 +79,20 @@
       <option name="project" value="LOCAL" />
       <updated>1734045598784</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="GUI Opens and turns on turns on and off">
+      <option name="closed" value="true" />
+      <created>1734135316218</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734135316218</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Starting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Starting" />
+    <MESSAGE value="GUI Opens and turns on turns on and off" />
+    <option name="LAST_COMMIT_MESSAGE" value="GUI Opens and turns on turns on and off" />
   </component>
 </project>
